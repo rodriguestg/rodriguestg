@@ -12,18 +12,31 @@
 
 <div align="justify">
 
-<p>Amo praticar esportes, como futebol e natação, gosto de ter sempre um bom livro me acompanhando, de planejar boas viagens e participar de eventos radicais, além de ter amor em ser design e desenvolvedor web!
+<p>### Olá, eu sou o Gabriel Rodrigues! 👋
 
-- 🏊 Os meus hobbies são: futebol, natação, bike, streamings e uma boa leitura.
-- 📍 Mauá, São Paulo, Brasil
-  
-Eu sou certificado em Desenvolvimento Web Full-Stack na Trybe, onde já obtive a certificação de desenvolvedor front-end e back-end, sabendo Javascript, React, Redux, API Context, Docker, MySQL, Node, Typescript, MongoDB, CSS, HTML e Python. Atualmente estou praticando e acrescentando em minhas skills a linguagem PHP junto com o Laravel.
+Desenvolvedor Web Full-Stack com foco em **PHP (Laravel)**, **JavaScript (React, Node.js)** e **TypeScript**, apaixonado por criar soluções eficientes, seguras e escaláveis.
 
-Na Trybe temos a oportunidade de praticar muito a arte de codar e resolver desafios, em um ano de curso, são mais de 40 projetos entre atividades em grupo e individuais.</p>
+- 🚀 Atualmente, atuo no **setor financeiro**, desenvolvendo e mantendo sistemas críticos onde segurança e performance são prioridade.
+- 🎓 Retomei minha graduação em **Análise e Desenvolvimento de Sistemas** (previsão de conclusão em 2028) para aprofundar minha base teórica.
+- 🤖 Estou sempre em busca de evolução, no momento explorando **N8N e IA** para criar automações inteligentes que otimizam processos e agregam valor real aos negócios.
+
+Sou certificado como Desenvolvedor Full-Stack pela **Trybe** (conclusão em 2023), onde construí uma base sólida em desenvolvimento de software.
+
+#### Principais Tecnologias:
+*   **Backend:** PHP, Laravel, Node.js, Python
+*   **Frontend:** React, TypeScript, Vue.js, JavaScript (ES6+), HTML5, CSS3
+*   **Infra & DevOps:** Docker, AWS, MySQL, MongoDB, Git, CI/CD
+*   **Metodologias:** Ágil (Scrum/Kanban), TDD, JWT
+
+Fora do código, sou apaixonado por esportes (futebol e natação), planejar viagens e uma boa leitura.
+
+#### Vamos nos conectar!
+*   🔗 **Portfólio:** [rodriguestg.github.io](https://rodriguestg.github.io)
+*   💼 **LinkedIn:** `https://www.linkedin.com/in/gabriel-rodrigues-t/`
+*   🎨 **Behance:** [bechance.net/gabrielrodris](https://bechance.net/gabrielrodris)</p>
 
 </div>
-## Um pouco sobre minha vida tech:
-https://rodriguestg.github.io/
+
 
 <div align="center">
 
@@ -49,6 +62,7 @@ https://rodriguestg.github.io/
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   </td>
   <td align="center" >
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
