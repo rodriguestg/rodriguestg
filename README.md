@@ -32,8 +32,8 @@ Fora do código, sou apaixonado por esportes (futebol e natação), planejar via
 
 #### Vamos nos conectar!
 *   🔗 **Portfólio:** [rodriguestg.github.io](https://rodriguestg.github.io)
-*   💼 **LinkedIn:** `https://www.linkedin.com/in/gabriel-rodrigues-t/`
-*   🎨 **Behance:** [bechance.net/gabrielrodris](https://bechance.net/gabrielrodris)</p>
+*   💼 **LinkedIn:** [linkedin.com/in/gabriel-rodrigues-t](https://www.linkedin.com/in/gabriel-rodrigues-t)
+*   🎨 **Behance:** [behance.net/gabrielrodris](https://behance.net/gabrielrodris)</p>
 
 </div>
 
