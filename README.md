@@ -72,6 +72,9 @@ Fora do código, sou apaixonado por esportes (futebol e natação), planejar via
     <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white">
     <img alt="MySQL WorkBench" src="https://img.shields.io/badge/MySQL%20WorkBench-404D59?style=for-the-badge">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+    <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+    <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-121011?style=for-the-badge&logo=keycloak&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <!-- Em andamento 
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
     -->
